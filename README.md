@@ -12,6 +12,6 @@ The Serpinski Triangle is a fractal, an infinitely complex geometric object. Cli
 
 ## Run
 ```
-cd /Path/To/File/Folder
+cd /Path/To/File
 python3 sierpinski.py
 ```
